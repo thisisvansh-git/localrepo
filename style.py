@@ -1,2 +1,2 @@
 print("haaahhhaaaa")
-print("this is the feature1 update")
+print("this is the feature1 update",end=" ")
